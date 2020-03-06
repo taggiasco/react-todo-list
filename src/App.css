@@ -1,0 +1,7 @@
+body {
+  padding: 5px
+}
+
+.finished-tasks {
+  text-decoration: line-through;
+}
